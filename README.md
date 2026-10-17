@@ -3,7 +3,7 @@
 Estrategia en tiempo real en 3D: humanos contra orcos, con base, economía, murallas, torres y ejércitos
 que pelean en formación.
 
-**Página:** https://iron-and-fang.vercel.app · English: https://iron-and-fang.vercel.app/en/  
+**Página:** https://www.ironandfang.online · English: https://www.ironandfang.online/en/  
 **itch.io:** https://primitive3.itch.io/iron-and-fang (ahí van las opiniones, en los comentarios)
 
 ## Prealfa 0.1.1
